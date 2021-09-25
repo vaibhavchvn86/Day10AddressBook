@@ -31,7 +31,7 @@ namespace Day9AddressBook
             //#region UC6
             //UC6_AddBook.AddBook6();
             //#endregion
-            AddBook.AddPer();
+           
         }
     }
 }
